@@ -1,6 +1,6 @@
 # Calendario para desarrolladores y desarrolladoras de software y hardware
 
-A continuación algunas fechas que pueden de interés para las personas que desarrollan software y hardware. ¿Crees que hace falta alguna? ¡Puedes contribuir con un Pull Request!
+A continuación algunas fechas que pueden ser de interés para las personas que desarrollan software y hardware. ¿Crees que hace falta alguna? ¡Puedes contribuir con un Pull Request!
 
 ## Febrero
 
@@ -10,6 +10,7 @@ A continuación algunas fechas que pueden de interés para las personas que desa
 
 - 17 de abril - [Día del Hardware Libre](https://en.wikipedia.org/wiki/Hardware_Freedom_Day)
 - 22 de abril - [Día Internacional de las Niñas en las TIC](https://www.itu.int/women-and-girls/girls-in-ict/)
+- En abril - [Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/)
 
 ## Mayo
 
@@ -19,7 +20,7 @@ A continuación algunas fechas que pueden de interés para las personas que desa
 ## Junio
 
 - En junio - [Día de Llevar el Perro al Trabajo](https://www.petsit.com/takeyourdog/)
-- 
+
 ## Agosto
 
 - Primer viernes de agosto - [Día internacional de la cerveza](http://internationalbeerday.com/)
